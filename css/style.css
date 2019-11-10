@@ -37,11 +37,6 @@ body {
   padding-top: 90px;
 }
 
-.nav {
-  display: flex;
-  justify-content: space-between;
-}
-
 .header__logo {
   margin-right: 70px;
 }
@@ -273,8 +268,8 @@ body {
   }
 
   .nav__link {
-    font-size: 14px;
-    margin-right: 14px;
+    font-size: 13px;
+    margin-right: 10px;
   }
 
 }
