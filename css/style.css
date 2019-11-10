@@ -37,6 +37,11 @@ body {
   padding-top: 90px;
 }
 
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
 .header__logo {
   margin-right: 70px;
 }
